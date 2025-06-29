@@ -1,0 +1,10 @@
+#+TITLE: README
+AUTHOR: adgaps
+
+* GENERAL
+
+This project is my personal blog. Right now it's still very plain and rough, but I will constantly update and improve on it soon.
+
+* MISCELLANEOUS
+
+*CREATED 29 JUNE 2025*
