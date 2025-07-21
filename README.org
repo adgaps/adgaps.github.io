@@ -2,8 +2,9 @@
 AUTHOR: adgaps
 
 * GENERAL
+This is a rough prototype for a future blog.
 
-This project is my personal blog. Right now it's still very plain and rough, but I will constantly update and improve on it soon.
+These entries will be migrated to a proper blog in the near future. For now I am using this as a test site, while I gradually improve on layout and design.
 
 * MISCELLANEOUS
 
