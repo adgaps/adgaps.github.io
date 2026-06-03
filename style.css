@@ -29,8 +29,8 @@ header a {
 }
 
 main  {
-    width: 60%;
-    margin-left: 20%;
+    width: 70%;
+    margin-left: 15%;
     padding: 2%;
 }
 
@@ -52,7 +52,7 @@ article {
     font-style: italic;
     font-size: 130%;
     line-height: 0.3;
-    color: #20B2AA;
+    color: #198E88;
 }
 
 article blockquote {
@@ -97,9 +97,9 @@ footer p {
     }
 
     main  {
-	width: 80%;
-	margin-left: 15%;
-	padding: 3%;
+	width: 85%;
+	margin-left: 5%;
+	padding: 2%;
     }
 
     .book_title {
@@ -112,9 +112,9 @@ footer p {
     }
 
     article blockquote {
-	font-size: 130%;
-	line-height: 1.8;
-	margin: 10%;
+	font-size: 140%;
+	line-height: 1.6;
+	margin: 10% 5%;
 	color: #20B2AA;
     }
 
