@@ -25,7 +25,7 @@ header a {
 .website_name {
     font-family: "PT Astra Serif", serif;
     font-size: 250%;
-    color: #2682B4;
+    color: #20B2AA;
 }
 
 main  {
@@ -49,7 +49,7 @@ article {
 
 .book_author {
     font-style: italic;
-    font-size: 130%;
+    font-size: 120%;
     line-height: 0.5;
     color: #198E88;
 }
@@ -57,11 +57,11 @@ article {
 article blockquote {
     border-left: 1px solid;
     font-style: italic;
-    font-size: 140%;
+    font-size: 150%;
     line-height: 1.8;
     padding-left: 2%;
     margin: 5%;
-    color: #20B2AA;
+    color: #A5E0DD;
 }
 
 article blockquote p {
@@ -106,11 +106,11 @@ footer p {
     }
 
     .book_author {
-	font-size: 120%;
+	font-size: 110%;
     }
 
     article blockquote {
-	font-size: 120%;
+	font-size: 130%;
 	line-height: 1.5;
 	margin: 10% 5%;
 	color: #20B2AA;
