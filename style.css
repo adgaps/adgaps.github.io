@@ -36,22 +36,21 @@ main  {
 
 article {
     font-family: Amiri, serif;
-    padding-bottom: 5%;
+    padding-bottom: 3%;
 }
 
 .book_title {
     text-transform: uppercase;
     font-family: "PT Astra Serif", serif;
     font-weight: bold;
-    font-size: 200%;
-    line-height: 0.3;
+    font-size: 180%;
     color: #2682B4;
 }
 
 .book_author {
     font-style: italic;
     font-size: 130%;
-    line-height: 0.3;
+    line-height: 0.5;
     color: #198E88;
 }
 
@@ -61,7 +60,7 @@ article blockquote {
     font-size: 140%;
     line-height: 1.8;
     padding-left: 2%;
-    margin: 10%;
+    margin: 5%;
     color: #20B2AA;
 }
 
@@ -103,8 +102,7 @@ footer p {
     }
 
     .book_title {
-	font-size: 190%;
-	line-height: 1;
+	font-size: 170%;
     }
 
     .book_author {
@@ -112,7 +110,7 @@ footer p {
     }
 
     article blockquote {
-	font-size: 130%;
+	font-size: 120%;
 	line-height: 1.5;
 	margin: 10% 5%;
 	color: #20B2AA;
