@@ -9,6 +9,7 @@
 }
 
 body {
+    overflow: scroll;
     background-color: #1D1D1D;
 }
 
@@ -36,7 +37,7 @@ main  {
 
 article {
     font-family: Amiri, serif;
-    padding-bottom: 3%;
+    padding-top: 5%;
 }
 
 .book_title {
@@ -49,7 +50,7 @@ article {
 
 .book_author {
     font-style: italic;
-    font-size: 120%;
+    font-size: 130%;
     line-height: 0.5;
     color: #198E88;
 }
@@ -58,9 +59,9 @@ article blockquote {
     border-left: 1px solid;
     font-style: italic;
     font-size: 150%;
-    line-height: 1.8;
+    line-height: 1.6;
     padding-left: 2%;
-    margin: 5%;
+    margin: 7% 2%;
     color: #A5E0DD;
 }
 
@@ -96,24 +97,23 @@ footer p {
     }
 
     main  {
-	width: 85%;
+	width: 90%;
 	margin-left: 5%;
 	padding: 2%;
     }
 
     .book_title {
-	font-size: 170%;
+	font-size: 160%;
     }
 
     .book_author {
-	font-size: 110%;
+	font-size: 120%;
     }
 
     article blockquote {
-	font-size: 130%;
-	line-height: 1.5;
+	font-size: 120%;
+	line-height: 1.4;
 	margin: 10% 5%;
-	color: #20B2AA;
     }
 
     article blockquote p {
