@@ -29,7 +29,7 @@ header a {
 
 .website_name {
     font-family: "PT Astra Serif", serif;
-    font-size: 250%;
+    font-size: 230%;
     color: #20B2AA;
 }
 
@@ -39,13 +39,9 @@ main  {
     padding: 2%;
 }
 
-article {
-    font-family: Amiri, serif;
-    padding-top: 5%;
-}
-
 details summary {
     text-transform: uppercase;
+    cursor: pointer;
     list-style-type: none;
     font-family: Amiri, serif;
     font-weight: bold;
@@ -70,6 +66,11 @@ ul li {
     font-size: 140%;
     line-height: 2;
     padding-left: 3%;
+}
+
+article {
+    font-family: Amiri, serif;
+    padding-top: 5%;
 }
 
 .book_title {
@@ -132,6 +133,11 @@ footer a {
 	width: 90%;
 	margin-left: 5%;
 	padding: 2%;
+    }
+
+    ul li {
+    font-size: 130%;
+    line-height: 1.5;
     }
 
     .book_title {
