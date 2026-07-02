@@ -90,7 +90,7 @@ article {
 
 article blockquote {
     border-left: 1px solid;
-    font-style: italic;
+/*    font-style: italic; */
     font-size: 160%;
     line-height: 1.6;
     padding-left: 2%;
@@ -149,8 +149,8 @@ footer a {
     }
 
     article blockquote {
-	font-size: 120%;
-	line-height: 1.5;
+	font-size: 110%;
+	line-height: 1.6;
 	margin: 10% 5%;
     }
 
